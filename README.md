@@ -1,5 +1,17 @@
-# Hello, I'm Nidhi Wadmark👋
+# Hi, I'm Nidhi 👋
 **Founder. Product leader. AI builder. Coach**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![v0](https://img.shields.io/badge/-v0-000000?style=flat-square&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logoColor=white)
+![Lovable](https://img.shields.io/badge/-Lovable-FF4BCB?style=flat-square&logoColor=white)
+
+> Product leader turned builder. Shipping AI products solo, faster than most engineering teams expect is possible.
 
 I've led product at PayPal, Visa, Cisco, Kaiser Permanente, FHLB, Federal Reserve Bank and IBM — and I build my own AI products on the side.
 
@@ -11,7 +23,7 @@ I've led product at PayPal, Visa, Cisco, Kaiser Permanente, FHLB, Federal Reserv
 |---|---|---|
 | [**Aletheia**](https://github.com/nwadmark/aletheia) | AI wellness companion for women navigating perimenopause & menopause — [live app ↗](https://aletheia-nu.vercel.app/) | React, TypeScript, Supabase, Gemini |
 | [**ReadLater**](https://github.com/nwadmark/readlater) | Link-saving app — 380 users from 16 countries in 48 hours | TypeScript, Google OAuth |
-| [**AI Assistant**](https://github.com/nwadmark/CIQ-Wells-Convo) | Proactive AI for network ops — prototype to support an autonomous delivery strategy | HTML/JS |
+| [**Vibe Coding for Beginners**](https://github.com/nwadmark/vibe-coding-for-beginners) | 60–75 min workshop for PMs to build their first AI tool — no coding required · 48% signup conversion in under a week | Python, Claude, ChatGPT |
 
 ---
 
@@ -53,7 +65,9 @@ Active in the **Women in Product** community. I talk about:
 
 ## 🔧 How I build
 
-I use Claude Code, Cursor, Codex, Replit, Lovable, v0 by Vercel, and a growing collection of my own Claude skills to move from idea to shipped product faster. I believe the best product leaders in the next 5 years will be ones who know how to build.
+I use Claude Code, Cursor, Lovable, v0 by Vercel, and a growing collection of my own Claude skills to move from idea to shipped product faster than most engineering teams expect is possible. I believe the best product leaders in the next 5 years will be ones who know how to build.
 
 ---
+
+*Founder, Ingenuity Impact. Previously: PayPal · Visa · IBM · Cisco · Kaiser Permanente · FHLB · Federal Reserve Bank*
 *Founder, Ingenuity Impact LLC | Previously:  PayPal · Visa · Cisco . IBM · Kaiser Permanente · Federal Reserve Bank . FHLB *
