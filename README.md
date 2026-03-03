@@ -14,7 +14,7 @@
 ![Lovable](https://img.shields.io/badge/-Lovable-FF4BCB?style=flat-square&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-> Product leader turned builder. Shipping AI products solo, faster than most engineering teams expect is possible.
+> PM by training. Builder by choice.
 
 I've led product at PayPal, Visa, Cisco, Kaiser Permanente, FHLB, Federal Reserve Bank and IBM — and I build my own AI products on the side.
 
@@ -55,20 +55,24 @@ A 60–75 min hands-on workshop I created for product managers to build their fi
 
 ## 🎤 Speaking & Community
 
-Active in the **Women in Product** community. I talk about:
+Active in the **Women in Tech** community. I talk about:
 - AI-assisted product development for non-engineers
 - Building and shipping AI products as a product leader
 - Agentic AI strategy and what it means for enterprise software
 
 📬 [Connect on LinkedIn](https://www.linkedin.com/in/nidhiwadmark) — open to speaking opportunities and conversations about product, AI, and building things.
 
+🐦 [Follow on X](https://x.com/nidhiwadmark) — thoughts on AI, product, and building.
+
 ✍️ [Read my Substack](https://nidhiwadmark.substack.com/) — where I write about AI, product leadership, and building in public.
+
+🎥 [Speaking & hosting reel](https://www.youtube.com/playlist?list=PLZTEohiajikx7dh9XNAvPtPV99X-rC5Wi) — on stage, on screen, and behind the mic.
 
 ---
 
 ## 🔧 How I build
 
-I use Claude Code, Cursor, Lovable, v0 by Vercel, and a growing collection of my own Claude skills to move from idea to shipped product faster than most engineering teams expect is possible. I believe the best product leaders in the next 5 years will be ones who know how to build.
+I use Claude Code, Cursor, Lovable, v0 by Vercel, and a growing collection of my own Claude skills to move from idea to shipped product. I believe the best product leaders in the next 5 years will be ones who know how to build.
 
 ---
 
