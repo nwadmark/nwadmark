@@ -35,7 +35,7 @@ I've led product at PayPal, Visa, Cisco, Kaiser Permanente, FHLB, Federal Reserv
 ### [working-backwards-coach](https://github.com/nwadmark/working-backwards-coach) · ⭐ 9 · 🍴 5
 A Claude skill that forces customer-first thinking before any output gets written. Built on Amazon's Working Backwards methodology — PR/FAQ, experience narratives, critical evaluation. Used by PMs who want to ask hard questions before building.
 
-### [vibe-coding-for-beginners](https://github.com/nwadmark/vibe-coding-for-beginners) · ⭐ 6 · 🍴 2
+### [vibe-coding-for-beginners](https://github.com/nwadmark/vibe-coding-for-beginners) · ⭐ 11 · 🍴 2
 A 60–75 min hands-on workshop I created for product managers to build their first AI-powered tool. No coding experience required. 100% free tools. Built for the Women in Product community and beyond. **48% signup conversion in under a week.**
 
 ---
